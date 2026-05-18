@@ -58,6 +58,57 @@ Add blog posts as you discover them using this format:
 **Key Concept:** [Main idea]
 **Status:** Original / To Review / Updated
 
+### Blog Posts Added
+
+**Title:** Flavors of Prototypes
+**URL:** https://www.svpg.com/flavors-of-prototypes/
+**Date Published:** February 23, 2014
+**Framework Section:** Discovery Execution
+**Key Concept:** Different types and approaches to prototyping in product discovery
+**Status:** To Review
+
+**Title:** The Purpose of Prototypes
+**URL:** https://www.svpg.com/the-purpose-of-prototypes/
+**Date Published:** September 12, 2025
+**Framework Section:** Discovery Execution
+**Key Concept:** Understanding why and how prototypes serve discovery objectives
+**Status:** To Review
+
+**Title:** The Era of the Product Creator
+**URL:** https://www.svpg.com/the-era-of-the-product-creator/
+**Date Published:** May 27, 2025
+**Framework Section:** Product Team Principles
+**Key Concept:** Evolution of the product role and empowerment of product creators
+**Status:** To Review
+
+**Title:** Forward Deployed Engineers
+**URL:** https://www.svpg.com/forward-deployed-engineers/
+**Date Published:** September 17, 2025
+**Framework Section:** Product Team Principles
+**Key Concept:** Engineers embedded with customers for discovery and collaboration
+**Status:** To Review
+
+**Title:** Product Discovery Series
+**URL:** https://www.svpg.com/product-discovery-series/
+**Date Published:** January 1, 2023
+**Framework Section:** Product Discovery Principles
+**Key Concept:** Comprehensive series on discovery principles and practices
+**Status:** To Review
+
+**Title:** Product Discovery: Pitfalls and Anti-Patterns
+**URL:** https://www.svpg.com/product-discovery-anti-patterns/
+**Date Published:** April 4, 2017
+**Framework Section:** Product Discovery Principles
+**Key Concept:** Common mistakes and anti-patterns to avoid in discovery
+**Status:** To Review
+
+**Title:** Assessing Customer Impact
+**URL:** https://www.svpg.com/assessing-customer-impact/
+**Date Published:** November 1, 2012
+**Framework Section:** Problem Validation
+**Key Concept:** Methods for evaluating the significance and scope of customer problems
+**Status:** To Review
+
 Topics to search:
 - Assessing Product Risks
 - Continuous Discovery Interviews
@@ -87,5 +138,5 @@ Topics to search:
 | Date | Framework Section | Update | Source | Notes |
 |---|---|---|---|---|
 | 2025-05-15 | Initial Creation | All sections | INSPIRED, EMPOWERED outline | Foundation from 20 principles |
-| | | | | |
+| 2026-05-18 | Discovery Execution, Product Team Principles, Product Discovery Principles, Problem Validation | Added 7 blog posts | SVPG blog references | Multiple framework sections covered |
 

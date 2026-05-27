@@ -11,9 +11,26 @@ problem, wrong solution, or wrong customer—not from poor execution.
 
 ---
 
+## Pre-Stage: Opportunity Assessment (Optional)
+
+Before validating a specific problem hypothesis, teams may want to assess whether an
+opportunity is worth investigating at all. This pre-stage uses Cagan's opportunity assessment
+framework to evaluate:
+
+- **Strategic Fit** - Does it align with our strategy?
+- **Market Potential** - Is there real market demand?
+- **Customer Desirability** - Do customers actually want it?
+- **Business Viability** - Can we build a sustainable business?
+- **Technical Feasibility** - Can we build it?
+
+**When to use:** Use this pre-stage when evaluating a new idea before committing team
+time to full discovery. Skip if you already have a validated problem hypothesis.
+
+---
+
 ## Discovery Framework: Four Product Risks
 
-Before committing engineering resources, assess and mitigate these risks:
+Before committing engineering resources to a specific problem, assess and mitigate these risks:
 
 ### 1. Value Risk
 **Does the customer actually want this solved?**

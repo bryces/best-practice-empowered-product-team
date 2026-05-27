@@ -14,7 +14,7 @@ working guide for product teams. It helps teams:
 
 ## Key Features
 
-- **4-Stage Workflow:** Problem Validation → Discovery Planning → Discovery Execution → Synthesis → Strategy
+- **5-Stage Workflow:** Opportunity Assessment → Problem Validation → Discovery Planning → Synthesis → Strategy
 - **Collaborative:** Emphasizes cross-functional discovery (PM, Designer, Engineer)
 - **File Generation:** Creates both saved files (for version control) and artifacts (for editing)
 - **Risk Assessment:** Uses Cagan's value/usability/viability/feasibility framework
@@ -65,6 +65,11 @@ North Star: [your north star]
 3. Reference in project instructions
 
 ## Workflow Overview
+
+### Pre-Stage: Opportunity Assessment (1 week)
+- Evaluate strategic fit and market potential
+- Score business viability and technical feasibility
+- Decide: GO / EXPLORE / HOLD / NO GO
 
 ### Stage 1: Problem Validation (1-2 weeks)
 - Assess four product risks

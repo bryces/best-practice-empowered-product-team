@@ -43,8 +43,9 @@ work. Built for Claude Code execution with file I/O capabilities.
 
 ## Workflow Overview
 
-This skill guides teams through four interconnected stages:
+This skill guides teams through five interconnected stages:
 
+0. **Opportunity Assessment** - Evaluate if an opportunity is worth investigating
 1. **Problem Validation** - Assess if the problem hypothesis is worth solving
 2. **Discovery Planning & Execution** - Design and run discovery research
 3. **Synthesis & Insights** - Extract patterns and validate findings
@@ -52,11 +53,41 @@ This skill guides teams through four interconnected stages:
 
 ---
 
+## Pre-Stage: Opportunity Assessment
+
+### Entry Point: Opportunity Assessment
+
+When user is evaluating a new opportunity, request:
+1. **Project folder path** - Where to create/save documents
+2. **Opportunity description** - What's the opportunity/idea?
+3. **Target customer** - Who would benefit?
+4. **Preliminary context** - Why are we considering this now?
+
+### Assessment Approach
+
+Guide teams through Cagan's opportunity assessment framework using the template at `templates/opportunity-assessment.md`. This evaluates:
+
+- **Strategic Fit** - Does it align with our strategy?
+- **Market Potential** - Is there real market demand?
+- **Customer Desirability** - Do customers actually want it?
+- **Business Viability** - Can we build a sustainable business?
+- **Technical Feasibility** - Can we build it?
+
+### Output
+
+**File:** `/project/discovery/00-opportunity-assessment.md`
+
+**Deliverable:** Scored opportunity canvas with recommendation (GO/EXPLORE/HOLD/NO GO)
+
+**Outcome:** If GO or EXPLORE → Proceed to Problem Validation
+
+---
+
 ## Stage 1: Problem Validation
 
 ### Entry Point: Problem Validation
 
-When user invokes skill, request:
+When user invokes skill or after opportunity assessment, request:
 1. **Project folder path** - Where to create/save documents (e.g., `/Users/name/project-alpha`)
 2. **Problem hypothesis** - What problem are they hypothesizing exists?
 3. **North Star** - What outcome would success look like?

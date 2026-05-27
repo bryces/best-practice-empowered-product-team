@@ -41,8 +41,8 @@ best-practice-empowered-product-team/
 │   └── EXAMPLE_WALKTHROUGH.md       # Complete workflow example
 └── templates/
     ├── opportunity-assessment.md      # Pre-Stage: Assess opportunity viability
-    ├── opportunity-solution-tree-plan.md # Stage 2: Map solutions & experiments
     ├── problem-validation.md          # Stage 1: Validate problem hypothesis
+    ├── opportunity-solution-tree-plan.md # Stage 2: Map solutions & experiments
     ├── discovery-plan.md              # Stage 2: Plan discovery approach
     ├── interview-guide.md             # Stage 2: Guide for customer interviews
     ├── opportunity-solution-tree-synthesis.md # Stage 3: Map discovery results

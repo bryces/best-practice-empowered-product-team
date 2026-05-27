@@ -148,8 +148,18 @@ You'll know the skill is working when:
 - **TRANSFORMED:** Becoming a Modern Product Organization
 
 ### Online
-- SVPG (Silicon Valley Product Group): https://svpg.com
-- Blog posts on discovery, OKRs, strategy, team roles
+- [SVPG (Silicon Valley Product Group)](https://svpg.com)
+
+**Key Blog Posts:**
+- [Flavors of Prototypes](https://www.svpg.com/flavors-of-prototypes/) - Discovery Execution
+- [The Purpose of Prototypes](https://www.svpg.com/the-purpose-of-prototypes/) - Discovery Execution
+- [The Era of the Product Creator](https://www.svpg.com/the-era-of-the-product-creator/) - Product Team Principles
+- [Forward Deployed Engineers](https://www.svpg.com/forward-deployed-engineers/) - Product Team Principles
+- [Product Discovery Series](https://www.svpg.com/product-discovery-series/) - Product Discovery Principles
+- [Product Discovery: Pitfalls and Anti-Patterns](https://www.svpg.com/product-discovery-anti-patterns/) - Product Discovery Principles
+- [Assessing Customer Impact](https://www.svpg.com/assessing-customer-impact/) - Problem Validation
+
+See [guides/REFERENCES.md](guides/REFERENCES.md) for the complete mapping of all sources to frameworks.
 
 ## Contributing
 

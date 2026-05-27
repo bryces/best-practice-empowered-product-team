@@ -160,6 +160,8 @@ You'll know the skill is working when:
 - [Product Discovery: Pitfalls and Anti-Patterns](https://www.svpg.com/product-discovery-anti-patterns/) - Product Discovery Principles
 - [Assessing Product Opportunities](https://www.svpg.com/assessing-product-opportunities/) - Discovery Planning
 - [Lean Canvas vs Opportunity Assessment](https://www.svpg.com/lean-canvas-vs-opportunity-assessment/) - Discovery Planning
+- [Product Opportunity Assessment](https://artkai.io/blog/product-opportunity-assesment) - Discovery Planning
+- [The Value Proposition Canvas](https://www.strategyzer.com/library/the-value-proposition-canvas) - Discovery Planning
 - [Assessing Customer Impact](https://www.svpg.com/assessing-customer-impact/) - Problem Validation
 
 See [guides/REFERENCES.md](guides/REFERENCES.md) for the complete mapping of all sources to frameworks.

@@ -97,7 +97,7 @@ without losing your place.
 
 ### Example
 
-```
+```text
 User: "I want to use the Best Practice Empowered Product Team skill"
 
 Skill: "I see 2 active projects:

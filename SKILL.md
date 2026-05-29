@@ -83,7 +83,7 @@ multiple sessions and projects.
 
 ### Example Session Flow
 
-```
+```text
 User: "I want to use the Best Practice Empowered Product Team skill"
 
 Skill checks: Finds .sessions-index.md with 2 projects

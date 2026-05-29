@@ -69,6 +69,7 @@ For persistent, web-based access:
    - Upload SKILL.md and README.md
 
 3. **Set project instructions** to reference the skill:
+
    ```markdown
    # Project Instructions
    
@@ -246,7 +247,7 @@ The skill shows your active projects and lets you pick which to resume.
 
 The skill auto-generates this folder structure:
 
-```
+```tree
 /my-project/
 ├── discovery/
 │   ├── 00-opportunity-assessment.md      ← Pre-Stage 0
